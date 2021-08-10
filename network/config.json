@@ -8,8 +8,8 @@
     "text": "Ryan"
   },
   "text": {
-    "more": "This visuization represents the network formed by 412 Food Rescue's operations from January 1, 2021 to June 30, 2021. Darker green nodes represent partner nonprofits (Group 1), light green nodes represent food donors (Group 2), and edges between nodes indicate at least one food rescue connecting two partners.",
-    "intro": "working interface",
+    "more": "This visuization represents the network formed by 412 Food Rescue's operations from January 1, 2021 to June 30, 2021. Darker green nodes represent partner nonprofits (Group 1), light green nodes represent food donors (Group 2), and edges between nodes indicate at least one food rescue connecting two partners (weighted by the total weight of food donated).",
+    "intro": "Nodes are weighted by degree (number of connections), egdes by the weight of food donated. Hovering over or clicking a particular node reveals that node's 'ego network' - all the nodes with shared edges. Click a particular donor to view the many incredible organizations their surplus food has supplied, or select a nonprofit partner to find out what local businesses allow them to feed the people they serve. ",
     "title": "Rescue Network"
   },
   "legend": {
