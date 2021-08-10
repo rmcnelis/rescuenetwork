@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "Rescues",
-    "colorLabel": "Degree",
-    "nodeLabel": "Donor/Nonprofit"
+    "colorLabel": "Donor/Nonprofit",
+    "nodeLabel": "Partner Organizations"
   },
   "features": {
     "search": true,
